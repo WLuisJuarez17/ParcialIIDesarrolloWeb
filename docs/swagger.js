@@ -14,10 +14,11 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: "http://localhost:3001/api",
+      url: 
+      "https://desolate-beach-76303.herokuapp.com/api",
     },
     {
-      url: "https://afternoon-journey-32165.herokuapp.com/api",
+      url: "http://localhost:3001/api",
     },
   ],
   components: {
